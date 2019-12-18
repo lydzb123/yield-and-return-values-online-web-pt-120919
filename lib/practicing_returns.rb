@@ -8,4 +8,4 @@ def hello(array)
   collection
 end
 
-hello(["Tim", "Kade", "Leo"]) { |name| "Hey, #{name}" }
+hello(["Tim", "Kade", "Leo"]) { |name| "Hey, #{name}." }
