@@ -7,3 +7,5 @@ def hello(array)
   end
   collection
 end
+
+hello(["Tim", "Kade", "Leo"])
